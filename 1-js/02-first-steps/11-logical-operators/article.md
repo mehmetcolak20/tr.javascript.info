@@ -200,7 +200,7 @@ AND `"&&"` operatörü aşağıdaki gibi çalışır:
 - Her bir operandı boolean değere çevir. Eğer sonuç `yanlış` ise dur ve operatörün orijinal değerini döndür.
 - Eğer diğer operandlara erişim sağlandıysa ( hepsinin doğru olma durumu ) sondaki operandı döndür.
 
-Yukarıdaki kurallar VEYA kuralları ile benzerlik göstermektedir. Farklılık AND operatörünün ilk `yanlış` bulduğunda dönmesi. OR operatörü ise ilk `doğru` bulduğunda dönmekteydi.
+Yukarıdaki kurallar VEYA kuralları ile benzerlik göstermektedir. Farklılık AND operatörünün ilk `yanlış` bulduğunda dönmesi,  OR operatörünün ise ilk `doğru`yu bulduğunda dönmesidir.
 
 Örnek:
 
